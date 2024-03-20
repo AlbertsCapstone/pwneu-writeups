@@ -4,8 +4,9 @@
 ---
 
 Download the gif file and view the file.
+<br>
 ![](https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318003626.png)
- 
+ <br>
  
  Convert the number to text using the number per alphabet.
 
