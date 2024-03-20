@@ -1,0 +1,14 @@
+import random
+
+def str_xor(secret, key):
+    new_key = key * (len(secret) // len(key)) + key[:len(secret) % len(key)]
+    encrypted_text = ""
+    for secret_char, key_char in zip(secret, new_key):
+        encrypted_text += chr(ord(secret_char) ^ ord(key_char))
+    return encrypted_text
+
+flag_enc = chr(0x0), chr(0x0), chr(0x0), chr(0x0), chr(0x0), chr(0x2b), chr(0x66), chr(0x0), chr(0x1), chr(0x66), chr(0x1e), chr(0x3), chr(0x7), chr(0x75), chr(0x1b), chr(0x65), chr(0x8), chr(0x7a), chr(0x17), chr(0x66), chr(0xf), chr(0x1e), chr(0x3), chr(0x15), chr(0x65), chr(0x2), chr(0x3), chr(0x7a), chr(0xb), chr(0x1), chr(0xf), chr(0x66), chr(0x0), chr(0x1a), chr(0x5), chr(0x9), chr(0x60), chr(0x6), chr(0x11), chr(0x1a), chr(0x1e), chr(0x2a)
+  
+flag = str_xor(flag_enc, 'PWNEU')
+print('Here\'s your flag: ' + flag)
+
