@@ -5,7 +5,6 @@
 
 Download the file and unzip the file. There you can see the ``.hidden`` directory.
 
-![[Pasted image 20240318235552.png]]
 
 <br>
 <img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318235552.png" alt="">

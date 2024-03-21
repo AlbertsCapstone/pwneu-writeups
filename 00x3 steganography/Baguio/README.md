@@ -5,7 +5,8 @@
 
 Use zsteg to get the flag.
 
-``zsteg -a [filename]
+
+``zsteg -a [filename]``
 
 
 <br>
