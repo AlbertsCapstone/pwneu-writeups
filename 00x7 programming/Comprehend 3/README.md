@@ -6,12 +6,25 @@
 
 Run the code.
 
-![[Pasted image 20240321020417.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321020417.png" alt="">
+ <br>
+ 
+ 
 Check the src code and change the condition to ``open_sesame`` to return true.
 
-![[Pasted image 20240321020339.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321020339.png" alt="">
+ <br>
+ 
+ 
 Run the code.
 
-![[Pasted image 20240321020447.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321020447.png" alt="">
+ <br>
+ 
+ 

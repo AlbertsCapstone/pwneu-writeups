@@ -6,12 +6,25 @@
 
 Run the code.
 
-![[Pasted image 20240321013333.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321013333.png" alt="">
+ <br>
+ 
+ 
 Fix the Identation error in line 13.
 
-![[Pasted image 20240321013352.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321013352.png" alt="">
+ <br>
+ 
+ 
 Run the code.
 
-![[Pasted image 20240321013410.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321013410.png" alt="">
+ <br>
+ 
+ 

@@ -6,12 +6,25 @@
 
 Run the code.
 
-![[Pasted image 20240321013629.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321013629.png" alt="">
+ <br>
+ 
+ 
 Fix the error in line 14.
 
-![[Pasted image 20240321013707.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321013707.png" alt="">
+ <br>
+ 
+ 
 Run the code.
 
-![[Pasted image 20240321013722.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321013722.png" alt="">
+ <br>
+ 
+ 
