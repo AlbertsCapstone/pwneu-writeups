@@ -8,13 +8,17 @@ Download the file and run the python code.
 
 Answer the questions.
 
-![[Pasted image 20240319010505.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240319010505.png" alt="">
+ <br>
 
 Or you can remove the questions.
 
-![[Pasted image 20240319010323.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240319010323.png" alt="">
+ <br>
 There is no need to answer questions.
 
-![[Pasted image 20240319010551.png]]
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240319010551.png" alt="">
+ <br>

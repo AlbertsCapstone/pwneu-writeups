@@ -4,35 +4,58 @@
 ---
 Download the file and unzip it you can see the paths below/
 
-![[Pasted image 20240320085530.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320085530.png" alt="">
+ <br>
 First flag.
 
-![[Pasted image 20240320085636.png]]
 
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320085636.png" alt="">
+ <br>
 Second flag.
 
-![[Pasted image 20240320085718.png]]
 
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320085718.png" alt="">
+ <br>
 Third flag.
 
-![[Pasted image 20240320091857.png]]
+
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320091857.png" alt="">
+ <br>
 
 Not a real text file it says this is a JFIF.
 
-![[Pasted image 20240320091939.png]]
+
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320091939.png" alt="">
+ <br>
 
 Change the file extension.
 
-![[Pasted image 20240320092226.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320092226.png" alt="">
+ <br>
 
 Fourth flag.
 
-![[Pasted image 20240320090049.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320090049.png" alt="">
+ <br>
 
 Fifth flag.
 
-![[Pasted image 20240320090135.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320090135.png" alt="">
+ <br>
 

@@ -5,5 +5,6 @@
 
 Download the file and use grep command.
 
-![[Pasted image 20240319002449.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240319002449.png" alt="">
+ <br>

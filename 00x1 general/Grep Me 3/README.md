@@ -11,5 +11,7 @@ Using the following command.
 cat */*/*/* | grep P*
 ```
 
-![[Pasted image 20240321021325.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321021325.png" alt="">
+ <br>

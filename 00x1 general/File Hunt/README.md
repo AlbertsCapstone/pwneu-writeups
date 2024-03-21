@@ -5,5 +5,7 @@
 
 Download the file and unzip the file. There you can see the FLAG HAHA! 
 
-![[Pasted image 20240319010853.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240319010853.png" alt="">
+ <br>
