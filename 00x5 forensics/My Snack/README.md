@@ -2,18 +2,38 @@
 ###### Write-ups by drewbyte
 ###### Flag : PWNEU{5TR1NG51T}
 ---
+
 Check the file type.
 
-![[Pasted image 20240321000727.png]]
 
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321000727.png" alt="">
+ <br>
+ 
+ 
 Run the file because it is a executable file.
 
-![[Pasted image 20240321001851.png]]
 
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321001851.png" alt="">
+ <br>
+ 
+ 
 Display the .png file.
 
-![[Pasted image 20240321000811.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321000811.png" alt="">
+ <br>
+ 
+ 
 A clue is cheese we need the cheese the flag.
 
-![[Pasted image 20240321001658.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321001658.png" alt="">
+ <br>
+ 
+ 

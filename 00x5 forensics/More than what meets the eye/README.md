@@ -2,9 +2,14 @@
 ###### Write-ups by drewbyte
 ###### Flag : PWNEU{3A5Y_ENOU63}
 ---
+
 Download the file and check the file.
 
-![[Pasted image 20240321002358.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321002358.png" alt="">
+ <br>
+ 
 
 Check the headers of File.png if it's real PNG 
 
@@ -16,4 +21,9 @@ The hex value of PNG file is
 
 Using hex editor edit the header file.
 
-![[Pasted image 20240321010452.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321010452.png" alt="">
+ <br>
+ 
+ 
