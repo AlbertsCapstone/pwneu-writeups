@@ -3,9 +3,14 @@
 ###### Flag : PWNEU{INDIANA}
 ---
 
-Use your google dorking skills to find the criminal.
+Use your sherlock to find the account of the specific user.
 
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Screenshot%20from%202024-03-21%2017-35-10.png" alt="">
+ <br>
+
+It gives us that the criminal is using Linktree.
 
 <br>
 <img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318145618.png" alt="">
