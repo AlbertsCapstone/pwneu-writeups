@@ -5,20 +5,26 @@
 
 Download the file and unzip it.
 
-![[Pasted image 20240318190945.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318190945.png" alt="">
+ <br>
 Fake flag.
 
-![[Pasted image 20240318191022.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318191022.png" alt="">
+ <br>
 And it says crack the bear first.
 
-![[Pasted image 20240318191152.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318191152.png" alt="">
+ <br>
 The ``this-is-not-password-xD`` is the password for the second file.
 
-![[Pasted image 20240318191405.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318191405.png" alt="">
+ <br>
 Display the ``yumiko.txt``.
 
-![[Pasted image 20240318191428.png]]
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318191428.png" alt="">
+ <br>

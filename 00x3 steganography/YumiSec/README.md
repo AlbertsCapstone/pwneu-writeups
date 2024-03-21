@@ -7,14 +7,19 @@ Download the pdf file to crack the password use the pdfcrack tool using the foll
 
 ``pdfcrack [filename] -w /wordlist.txt
 
-![[Pasted image 20240318190235.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318190235.png" alt="">
+ <br>
 Password : ``iloveyou``
 
 Paste the password.
 
-![[Pasted image 20240318190410.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318190410.png" alt="">
+ <br>
 And the flag is,
 
-![[Pasted image 20240318190430.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318190430.png" alt="">
+ <br>
