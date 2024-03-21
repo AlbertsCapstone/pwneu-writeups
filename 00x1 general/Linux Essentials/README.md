@@ -1,6 +1,6 @@
 ### Category : General
 ###### Write-ups by drewbyte
-###### Flag : PWNEU{L1NUX_CL1_15_50_ESS3NTIALZ}
+###### Flag : PWNEU{L1NUX_CL1_15_50_ESS3N7I4LZ}
 ---
 Download the file and unzip it you can see the paths below/
 
@@ -56,6 +56,5 @@ Fifth flag.
 
 
 <br>
-<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320090135.png" alt="">
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240321153022.png" alt="">
  <br>
-
