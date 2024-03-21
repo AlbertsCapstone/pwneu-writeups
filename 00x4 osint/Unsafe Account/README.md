@@ -10,6 +10,9 @@ email : elonmusk@gmail.com
 ```
 
 
-![[Pasted image 20240318143143.png]]
-
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318143143.png" alt="">
+ <br>
+ 
+ 
 Do not use the same password repeatedly in different accounts.

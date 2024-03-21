@@ -5,16 +5,28 @@
 
 Check closely the image and there is an ID.
 
-![[Pasted image 20240318151132.png]]
 
-Search ``Headsup 2023
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318151132.png" alt="">
+ <br>
+
+
+Search ``Headsup 2023``
 
 In Facebook and you will see this post.
 
-![[Pasted image 20240318152428.png]]
+
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318152428.png" alt="">
+ <br>
+
 
 And go to the page.
 
-![[Pasted image 20240318152521.png]]
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318152521.png" alt="">
+ <br>
+
+ 
 Get their shortened name.

@@ -1,12 +1,14 @@
 ### Category : OSINT
 ###### Write-ups by drewbyte
-###### Flag : PWNEU{ORECENTRAL}
+###### Flag : PWNEU{THORFINN}
 ---
 
-Use google scan and get the name of the building.
+Use google your google.
 
-![[Pasted image 20240318150937.png]]
 
-The building is  ORE CENTRAL.
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318150937.png" alt="">
+ <br>
+ 
+ 
 
-![[Pasted image 20240318151004.png]]
