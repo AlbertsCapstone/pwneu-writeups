@@ -4,9 +4,10 @@
 ---
 Download the zip file and get the md5 hash.
 
-![[Pasted image 20240320110013.png]]
-
 The highlighted is the flag.
 
 
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240320110013.png" alt="">
+ <br>
