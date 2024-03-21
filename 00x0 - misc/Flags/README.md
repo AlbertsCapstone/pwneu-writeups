@@ -7,20 +7,18 @@ Download the png file and view the image.
 
  
 
- <br>
- <br>
-![](https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240317233338.png)
- <br>
- <br>
 
+<br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240317233338.png" alt="">
+ <br>
  
  If you don't know what country it is use google scan.
  
-<br>
+
  <br>
-![](https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240317233855.png)
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240317233855.png" alt="">
  <br>
- <br>
+ 
 
 Get the first names of the countries.
 

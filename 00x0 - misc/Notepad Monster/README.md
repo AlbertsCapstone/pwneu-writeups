@@ -5,22 +5,17 @@
 
 Download the text file and view the file.
 
- 
- <br>
-<br>
-![](https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318110142.png
-)
- <br>
+
+
+  <br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318110142.png" alt="">
  <br>
  
  Zoom out the file to see the flag.
- 
 
- <br>
-<br>
-![](https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318110921.png
-)
- <br>
+
+  <br>
+<img src="https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%2020240318110921.png" alt="">
  <br>
 
 Get the first names of the countries.
