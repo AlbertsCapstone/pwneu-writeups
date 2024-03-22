@@ -1,6 +1,6 @@
 ### Category : General
 ###### Write-ups by drewbyte
-###### Flag : PWNEU{BOOK_B7_1TS_COV3R}
+###### Flag : PWNEU{BOOK_B7_IT5_COV3R}
 ---
 
 Download the file and extract the file but it says that this is not a rar file.
