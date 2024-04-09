@@ -6,7 +6,7 @@
 Go to PWNEU Website and navigate to Users tab and search the IMPOSTOR!
 <br>
  <br>
-![](https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/Pasted%20image%20impostor.png)
+![](https://github.com/drew-byte/pwneu-writeups/blob/main/00x8%20saved%20images/impostor.png)
  <br>
  <br>
  
