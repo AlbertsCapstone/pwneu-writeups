@@ -1,6 +1,6 @@
 ### Category : Steganography
 ###### Write-ups by drewbyte
-###### Flag : PWNEU
+###### Flag : PWNEU{siandrewhindibastos}
 ---
 
 Download the 2 image file.
